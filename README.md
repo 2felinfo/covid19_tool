@@ -4,7 +4,7 @@ The covid prediciton tool uses a statistical model to predict infected persons b
 [Installation](#installation) \
 [Usage](#usage)
 # Installation
-1. Clone the repository : `git clone `https://github.com/2felinfo/covid_prediction.git`
+1. Clone the repository : `git clone `https://github.com/2felinfo/covid19_tool.git`
 2. Navigate to the project directory: `cd` project_path
 3. Install required libraries:` pip install` -r requirements.txt"
 
